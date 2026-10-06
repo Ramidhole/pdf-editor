@@ -1,3 +1,8 @@
+/**
+ * create a server 
+ */
+
+
 import express from"express"
 
 const app = express()
